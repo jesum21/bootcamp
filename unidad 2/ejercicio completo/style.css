@@ -1,0 +1,46 @@
+ h2{
+    color: rgb(0, 26, 255);
+    font-size: 20px;
+}
+
+
+/* selectores de clases*/
+.Highlight{
+    background-color: ;
+}
+
+#footer{
+    background-color: mediumpurple;
+    line-height: 50px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+*{
+    margin: 3px;
+    padding: 3px
+}
+h2,h3{
+    text-align: center;
+    color: yellowgreen
+
+}
+p{
+    color: brown;
+    text-align: justify;
+    background-color: brown;
+    opacity: 0.9;
+    line-height: 1.5;
+}
+.parrafo{
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 20px;
+     color: beige;
+     background-color: aqua;
+}
+.parrafo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: blueviolet;
+    background-color: aquamarine;
+}
